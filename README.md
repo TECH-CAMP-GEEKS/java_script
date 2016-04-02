@@ -1,2 +1,2 @@
 # java_script
-JavaScriptに関する議論をしましょう
+JavaScriptに関する話題をしましょう
